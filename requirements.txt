@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+fastapi
+pydantic_settings
+PyYAML
+google-cloud-storage
+plotly
+xgboost

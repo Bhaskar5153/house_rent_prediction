@@ -1,0 +1,19 @@
+gcp:
+  project_id: "ai-ml-projects-260916"
+  data_uri: "gs://riva_ml_datasets/house_rent/*.csv"
+
+
+data:  
+  target: "price"
+  test_size: 0.20
+  random_state: 42
+  outlier_iqr_multiplier: 1.5
+
+
+model:
+  fit_intercept: true
+
+output:
+  artifact_dir: "artifacts"
+
+
