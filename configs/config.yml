@@ -1,6 +1,6 @@
 gcp:
-  project_id: "ai-ml-projects-260916"
-  data_uri: "gs://riva_ml_datasets/house_rent/*.csv"
+  project_id: "ai-ml-projects-xxxxx"
+  data_uri: "gs://bucket_name/house_rent/*.csv"
 
 
 data:  
